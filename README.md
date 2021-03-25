@@ -31,6 +31,13 @@ Due to my consistently high performance I was selected for a solo project to imp
 Selling exhibition space for UK Security Expo (now International Security Expo), my role was mainly to research, determine eligibility and ultimately selling floorspace to 
 security companies. My main niche within the team was new tech developments, including Drones, CyberSecurity and technology driven security solutions.
 
+**Deloitte** (June 2014 to August 2014)   
+*Tax Associate*  
+
+A largely self directed and and independent internship, I was placed within the Diageo team with the freedom to attach myself to various projects, based in the Deloitte UK head office.
+In my time at Deloitte I was involved in a large scale price unification project, learned how to calculate and minimise tax liabilities for individuals and for corporations and proof-read and edited reports for my colleagues.
+I also used my free time to arrange meetings with professionals from the many other income streams in Deloitte, including Digital consulting, corporate finance, management consulting and audit.
+
 ***
 
 ### <a name="skills">Skills</a>
