@@ -5,7 +5,7 @@ I spent the last few years working in a PropTech startup, primarily as a photogr
 As the technology began to work consistently and no new features were planned, I felt my role had run its course, but left with a newfound inspiration to create new Tech and solutions. To this end I began a Full Stack Deverloper course at [Makers Academy](https://github.com/makersacademy).
 
 I'm keen to join the tech indsutry as a developer, both due to interest from my previous role in a Tech start-up, but also to be a part of the digitization of the future, to which I firmly believe we have barely dipped a toe in an ocean. 
-I am most inspired by technology such as Palantir Foundry, Tesla self driving, Square, Zillow, Twilio, SalesFprce and AWS, and am very keen to find a role in building the future world.
+I am most inspired by technology such as Palantir Foundry, Tesla self driving, Square, Upstart, Zillow, Twilio, SalesForce and AWS, and am very keen to find a role in building the future world.
 
 ***
 
