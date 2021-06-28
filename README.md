@@ -2,9 +2,9 @@
 
 A Challenge oriented and strong growth mindset individual, I am always looking for new learning opportunities, as I am most engaged when I am lost. 
 I spent the last few years working in a PropTech startup, primarily as a photographer (despite no prior experience), helping to create the ability to digitally capture 3d propety tours as well as consistently accurate volumetric data. 
-As the technology began to work consistently and no new features were planned, I felt my role had run its course, but left with a newfound inspiration to create new Tech and solutions. To this end I began a Full Stack Deverloper course at [Makers Academy](https://github.com/makersacademy).
+As the technology began to work consistently and no new features were planned, I felt my role had run its course, but left with a newfound inspiration to create new Tech and solutions. To this end I began a Full Stack Developer course at [Makers Academy](https://github.com/makersacademy).
 
-I'm keen to join the tech indsutry as a developer, both due to interest from my previous role in a Tech start-up, but also to be a part of the digitization of the future, to which I firmly believe we have barely dipped a toe in an ocean. 
+I'm keen to join the tech industry as a developer, both due to interest from my previous role in a Tech start-up, but also to be a part of the digitization of the future, to which I firmly believe we have barely dipped a toe in an ocean. 
 I am most inspired by technology such as Palantir Foundry, Tesla self driving, Square, Upstart, Zillow, Twilio, SalesForce and AWS, and am very keen to find a role in building the future world.
 
 ***
@@ -55,7 +55,9 @@ Project | Description | Technologies Used | Link
 --- | --- | --- | ---
 **Alpha-Blog** | A categorized article repository including user authentication, created for my Rails Udemy Course | Ruby, Rails 6, JQuery, Bootstrap | https://github.com/MattDawson2020/alpha-blog
 **MessageMe** | A multi-user chat app using Channels to implement live chat, created for my Rails Udemy course | Ruby, Rails 5, JQuery, SemanticUI | https://github.com/MattDawson2020/MessageMe
-
+**AirBnb** | A web application clone of AirBnB that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, Sinatra, Bootstrap, PostgreSql | https://github.com/MattDawson2020/in_the_airbnb_tonight
+**Acebook** | A web application clone of Facebook that allows users to add their friends, make posts and comments. | Ruby, Rails 6, RSpec, Bootstrap, PostgreSql | https://github.com/MattDawson2020/acebook-Derailed
+**Fridge Savant** | A single page web app built in React, paired with a server project built in Express/Node | Javascript, Jest, React, Express, Node, MongoDB | https://github.com/jasonrowsell/fridge-savant-client & https://github.com/mikejeuga/fridge-savant-server
 ***
 
 ### <a name="skills">Education</a>
