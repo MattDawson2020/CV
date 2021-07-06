@@ -50,7 +50,7 @@ I also used my free time to arrange meetings with professionals from the many ot
 
 ***
 
-### <a name="projects">Projects & Code</a>
+### <a name="projects">Projects & Code</a> https://github.com/MattDawson2020
 Project | Description | Technologies Used | Link
 --- | --- | --- | ---
 **Alpha-Blog** | A categorized article repository including user authentication, created for my Rails Udemy Course | Ruby, Rails 6, JQuery, Bootstrap | https://github.com/MattDawson2020/alpha-blog
