@@ -5,7 +5,7 @@ In this role I worked as a photographer, a surveyor, a software tester, and exce
 I was immediately fascinated by the challenges and opportunities presented in by the tech industry, and towards the end of my time there began to look into how to career change into a developer role, as I was more engaged with my work than at any time in my life when we were busy previously unknown tech problems.
 As the technology began to work consistently and no new features were planned, I felt the time had come and I left to join the Full Stack Developer course at [Makers Academy](https://github.com/makersacademy).
 
-Having recently graduated Makers, [see my final project repo here](https://github.com/jasonrowsell/fridge-savant-client), I am continuing my learning by mastering the rest of the MERN stack beyond React, as well as learning Python. My intention is to be fluent in both the most popular front end tech stack, as well as one of the most widely used back end stacks. By moving beyond the more basic Rails tech stack into these technologies, I can further become a true Full Stack Engineer.
+Having recently graduated Makers, [see my GitHub Profile for a summary of my Maker's hourney](https://github.com/MattDawson2020), I am continuing my learning by mastering the rest of the MERN stack beyond React, as well as learning Python. My intention is to be fluent in both the most popular front end tech stack, as well as one of the most widely used back end stacks. By moving beyond the more basic Rails tech stack into these technologies, I can further become a true Full Stack Engineer.
 
 In the future I am very keen to be a part of the digitization of the world, to which I firmly believe we have barely dipped a toe in an ocean. 
 I am most inspired by technology such as Palantir, Tesla self driving, Square, Upstart, Zillow, Twilio, SalesForce and AWS, and the unique way in which they are driving human capabilities forward.
@@ -36,10 +36,26 @@ Test | Description | Language | Link
 
 ## <a name="skills">Skills</a>
 
-- **Fast Learner** - Begining with my History degree where every week we had to research and analyse question in our own time, to learning professional level photography on the job, to teaching myself Ruby, RSpec and basic rails for my coding bootcamp. I am most in my element when I am learning.
-- **High Growth Mindset** - I have total comfort and confidence engaging in new skills/ knoweldge, happy to struggle in ignorance till I reach new levels of understanding. Contrary to how most people operate, I specifically seek jobs with challenge because I find myself disengaged when work is too simple. 
-- **Attention to detail** - After years as a professional photographer specializing in property photography, to now pouring over pages of code looking for errors, and honed through years of reading and research for university/ news, spotting details and inconsistencies is a firm talent of mine. 
-- **Adaptablility** - I started with a History degree, I took a 6 month gap year in SE Asia moving to new cities/ countries every few days, I moved from sales to photography to software development. Each of these transitions felt as easy and natural to me as changing a set of clothes, and am content in the knowledge I will have to do it many more times in my career as a developer. 
+ **Fast Learner** 
+  - Prior to 2021 I had spent less than 10 hours in my life coding, I knew the most basic aspects such as variables, loops and functions, but no real understanding of major concepts like OOP vs FOP, MVC, frameworks etc.
+  - To go from beginner to Full Stack Engineer in 4 months was tough but doable, and would require intense study and open mindedness.
+  - To achieve this I would do my full day at makers coding the weekly challenges, and after 5-6pm would continue in my own reading and research in order to maximise my learning, each week testing myself in the makers weekly challenge.
+  - The results speak for themselves, [this is an example of what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/jasonrowsell/fridge-savant-client)
+  - This skill can also be seen in my previous job, where I went from zero photography and surveying experience to a professional grade photograper and certified property measurer within a few months, and was consistently rated one of the highest by the quality assurance team and by our clients
+  - My first major test of this skill was in my university degree, which required us to do almost all of the research and learning by ourselves with minimal guidance, based on a few reccomended texts (but mostly we had to find them ourselves) and bring this to a weekly discussion 
+<br>
+
+ **High Growth Mindset** 
+- For our Makers final project we decided to use the MERN stack despite only having two weeks of native JS experience, partially because it represented a challange, but also because we wanted to move beyond Ruby to a more representitive tech challenge. To augment the challenge, we only had 10 days to create a working app
+- To do this we had to teach ourselves how to use an entirely new framework, database, and programming paradigms on the as we coded, all in a language we had little experience in
+- This was achievable by simply divided the _difficult_ task into many smaller ones. Learn the basics of React, learn how to make a component, learn how to use States. Many small steps can make tremendous progress on a long journey. Each small step lead to greater understanding, which in turn made the next step a little easier. 
+- Despite the project being finished on time and ultimately very successful given the timeframe, I still look at it with an extremely critical lens because I know it can be better, and as I study React post Makers I see a lot of ways the code could be improved in a rewrite. However knowing this doesn't bother me, in fact the exact opposite, because it shows my growth as a developer
+- Similarly while working at Pupil I had multiple opportunities to make use of my growth mindset, because as a startup we were constantly required to change approach, start again, or just flat out abandon something that wasn't working. I actively enjoyed this and began to grow disatisifed with the job when this aspect of it faded as the technology began to work. I am at my most engaged and my best when faced with an active challenge to overcome
+
+###work in progres###
+
+**Attention to detail** - After years as a professional photographer specializing in property photography, to now pouring over pages of code looking for errors, and honed through years of reading and research for university/ news, spotting details and inconsistencies is a firm talent of mine. 
+**Adaptablility** - I started with a History degree, I took a 6 month gap year in SE Asia moving to new cities/ countries every few days, I moved from sales to photography to software development. Each of these transitions felt as easy and natural to me as changing a set of clothes, and am content in the knowledge I will have to do it many more times in my career as a developer. 
 
 
 ***
