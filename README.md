@@ -21,7 +21,7 @@ Project | Description | Technologies Used | Link
 **MessageMe** | A multi-user chat app using Channels to implement live chat, created for my Rails Udemy course | Ruby, Rails 5, JQuery, SemanticUI | https://github.com/MattDawson2020/MessageMe
 **AirBnb** | A web application clone of AirBnB that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, Sinatra, Bootstrap, PostgreSql | https://github.com/MattDawson2020/in_the_airbnb_tonight
 **Acebook** | A web application clone of Facebook that allows users to add their friends, make posts and comments. | Ruby, Rails 6, RSpec, Bootstrap, PostgreSql | https://github.com/MattDawson2020/acebook-Derailed
-**Fridge Savant** | A single page web app built in React, paired with a server project built in Express/Node | Javascript, Jest, React, Express, Node, MongoDB | https://github.com/jasonrowsell/fridge-savant-client & https://github.com/mikejeuga/fridge-savant-server
+**Fridge Savant** | A single page web app built in React, paired with a server project built in Express/Node | Javascript, Jest, React, Express, Node, MongoDB | https://github.com/MattDawson2020/fridge-savant-client & https://github.com/mikejeuga/fridge-savant-server
 
 ### <a name="projects">Tech test examples</a> 
 Test | Description | Language | Link
@@ -40,7 +40,7 @@ Test | Description | Language | Link
   - Prior to 2021 I had spent less than 10 hours in my life coding, I knew the most basic aspects such as variables, loops and functions, but no real understanding of major concepts like OOP vs FOP, MVC, frameworks etc.
   - To go from beginner to Full Stack Engineer in 4 months was tough but doable, and would require intense study and open mindedness.
   - To achieve this I would do my full day at makers coding the weekly challenges, and after 5-6pm would continue in my own reading and research in order to maximise my learning, each week testing myself in the makers weekly challenge.
-  - The results speak for themselves, [this is an example of what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/jasonrowsell/fridge-savant-client)
+  - The results speak for themselves, [this is an example of what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/MattDawson2020/fridge-savant-client)
   - This skill can also be seen in my previous job, where I went from zero photography and surveying experience to a professional grade photograper and certified property measurer within a few months, and was consistently rated one of the highest by the quality assurance team and by our clients
   - My first major test of this skill was in my university degree, which required us to do almost all of the research and learning by ourselves with minimal guidance, based on a few reccomended texts (but mostly we had to find them ourselves) and bring this to a weekly discussion 
 <br>
@@ -86,7 +86,16 @@ Test | Description | Language | Link
 ## <a name="experience">Experience</a>
 
 **Makers Academy** (March 2021 to June 2020)
-Studying to be a Full Stack Software Engineer, project and pair programming focus, specializing in Ruby and Javascript but with intention to learn Python.
+
+Full Stack Software Engineer bootcamp, project and pair programming focus, specializing in Ruby and Javascript
+Joined the Blue March 2021 cohort with one CodeAcademy & Udemy Ruby course, and an RSpec testing framework course reccomended by my mentor
+Overall I found the process relatively easy and am confident in the entire stack and in multi language fluency, I was consistently among the high performers and one of the few people that wasn't burned out or stressed by the end. [Look here under the Makers section to follow my journey,](https://github.com/MattDawson2020)
+This process entailed:
+  - Daily pair programming sessions on a weekly challenge set by Makers, which covered the weeks concepts. 
+  - Weekly Weekend challenges to reinforce the weeks learning
+  - Three major team based engineering projects, one replicating [AirBNB](https://github.com/MattDawson2020/in_the_airbnb_tonight), one replicating [Facebook](https://github.com/MattDawson2020/acebook-Derailed), and one self designed [program](https://github.com/MattDawson2020/fridge-savant-client)
+  - Learning focussed on TDD and process over syntax, the stated goal being "I can learn anything", "I can debug anything", and "I can TDD anything"
+<br>
 
 **Pupil** (July 2017 to October 2020)    
 *Digital Surveyor*
@@ -98,12 +107,14 @@ Due to my consistently high performance I was selected for a solo project to imp
   - Use targeted interviews with other high performers to build a library of successful habits and methodologies, as well as the inverse for lower performers 
   - Test new combinations of the successful methodologies until I created the optimal method for both errors and speed 
   - Disseminated the new method to the operations team. Both the speed and quality of data capture noticable improved as well as training simplicity
+  <br>
   
 **Nineteen Events** (March 20017 to July 2017)   
 *Sales Executive*  
 
 Selling exhibition space for UK Security Expo (now International Security Expo), my role was mainly to research, determine eligibility and ultimately selling floorspace to 
 security companies. My main niche within the team was new tech developments, including Drones, CyberSecurity and technology driven security solutions.
+<br>
 
 **Deloitte** (June 2014 to August 2014)   
 *Tax Associate*  
