@@ -45,18 +45,34 @@ Test | Description | Language | Link
   - My first major test of this skill was in my university degree, which required us to do almost all of the research and learning by ourselves with minimal guidance, based on a few reccomended texts (but mostly we had to find them ourselves) and bring this to a weekly discussion 
 <br>
 
+**Communication and Group Projects** 
+- The Maker's course covered three main group projects, one a week long and the others two weeks long. They required us to build things we'd never built before, using technology stacks we hadn't used before. Compounding this, we were often required to work with people that due to the pandemic restrictions, we had never even met or would ever meet in real life, people who ranged from socially fluid and extroverted, to very closed and introverted 
+- To achieve success in these projects required confidence and comfort working with relative strangers remotely to figure out complicated tech problems, without an experienced project manager
+- Having previously worked in a Tech company and alongside engineers, I was familiar with Agile, standups and the product lifecycle long before I ever started Makers. I'm also someone who has had a lot of client facing roles and who was heavily involved with training and leadership in the past. With this in mind I usually took something of a pseudo project manager role, usually by leading stand-ups and retros, defining an MVP to work towards, and suggesting solutions to problems, but most important in this was knowing when to step back and let a teammates confidence and initiative thrive.
+- My benchmark for success in this was my team experiences vs that of others in my cohort. All three of my team projects were extremely positive experiences, with us all wanting to work together on future projects and us being very tight knit groups. This was not always the case for others and team projects were often a source of intense friction and stress.
+- Other examples of this can be seen in my time in Makers, I was the only person to volunteer to lead the student lead retro in week 5 after the AirBNB project, requiring me to write and present a summary of our weeks learning reflections to the whole cohort. 
+- In my time at Pupil my interpersonal skills were also very prevelent. I was often the surveyor sent to deal with known difficult clients, and was often specifically requested by many of our most picky clients due to our working relationship. I was also one of the most popular trainers for new people and was someone that people actively campaigned to be promoted to managerial level.
+<br>
+
  **High Growth Mindset** 
 - For our Makers final project we decided to use the MERN stack despite only having two weeks of native JS experience, partially because it represented a challange, but also because we wanted to move beyond Ruby to a more representitive tech challenge. To augment the challenge, we only had 10 days to create a working app
 - To do this we had to teach ourselves how to use an entirely new framework, database, and programming paradigms on the as we coded, all in a language we had little experience in
 - This was achievable by simply divided the _difficult_ task into many smaller ones. Learn the basics of React, learn how to make a component, learn how to use States. Many small steps can make tremendous progress on a long journey. Each small step lead to greater understanding, which in turn made the next step a little easier. 
 - Despite the project being finished on time and ultimately very successful given the timeframe, I still look at it with an extremely critical lens because I know it can be better, and as I study React post Makers I see a lot of ways the code could be improved in a rewrite. However knowing this doesn't bother me, in fact the exact opposite, because it shows my growth as a developer
 - Similarly while working at Pupil I had multiple opportunities to make use of my growth mindset, because as a startup we were constantly required to change approach, start again, or just flat out abandon something that wasn't working. I actively enjoyed this and began to grow disatisifed with the job when this aspect of it faded as the technology began to work. I am at my most engaged and my best when faced with an active challenge to overcome
+<br>
 
-###work in progres###
+**Adaptablility** 
+- The first 5 weeks of makers was taught mostly in Ruby, with some HTML and CSS thrown in, culminating in an AirBNB project using the Sinatra framework. Weeks immediately threw us into JavaScript to learn by translation. Weeks 8-9 flipped back to Ruby, building a Facebook clone with Rails. We then personally chose to use JavaScript based MERN for the final project in weeks 11-12. Post Makers I am voluntarily learning Python, continuing this trend of constant adaptability.
+- The challenge if doing this isn't necessarily being able to get something to work once, but actually understanding it enough that you could repeat it in future.
+- In order to do this I focussed very heavily on a _Processes over Syntax approach_, because as an engineer you can always use documentation or google to find syntax, as long as you know specifically what you want to do
+- The result of this is that I can code full stack applications in both Ruby using Rails or Sinatra, or JavaScript using MERN comfortably after less than 4 months learning
+- This is a trend that you can see throughout my career, I have worked as a Tax Associate Intern (Deloitte), in hospitality, in sales, as a photographer/surveyor, and now as a Software Engineer. Each of these transitions was as simple and stress free to me as changing clothes 
+<br>
 
-**Attention to detail** - After years as a professional photographer specializing in property photography, to now pouring over pages of code looking for errors, and honed through years of reading and research for university/ news, spotting details and inconsistencies is a firm talent of mine. 
-**Adaptablility** - I started with a History degree, I took a 6 month gap year in SE Asia moving to new cities/ countries every few days, I moved from sales to photography to software development. Each of these transitions felt as easy and natural to me as changing a set of clothes, and am content in the knowledge I will have to do it many more times in my career as a developer. 
-
+**Problem Solving** 
+-
+<br>
 
 ***
 <br>
