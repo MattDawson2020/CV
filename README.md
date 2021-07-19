@@ -42,7 +42,7 @@ Test | Description | Language | Link
   - Prior to 2021 I had spent less than 10 hours in my life coding, I knew the most basic aspects such as variables, loops and functions, but no real understanding of major concepts like OOP vs FOP, MVC, frameworks etc.
   - To go from beginner to Full Stack Engineer in 4 months was tough but doable, and would require intense study and open mindedness.
   - To achieve this I would do my full day at makers coding the weekly challenges, and after 5-6pm would continue in my own reading and research in order to maximise my learning, each week testing myself in the makers weekly challenge.
-  - The results speak for themselves, [this is an example of what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/MattDawson2020/fridge-savant-client)
+  - The results speak for themselves, [this is an example of what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/MattDawson2020/fridge-savant-client) 
   - This skill can also be seen in my previous job, where I went from zero photography and surveying experience to a professional grade photograper and certified property measurer within a few months, and was consistently rated one of the highest by the quality assurance team and by our clients
   - My first major test of this skill was in my university degree, which required us to do almost all of the research and learning by ourselves with minimal guidance, based on a few reccomended texts (but mostly we had to find them ourselves) and bring this to a weekly discussion 
 <br>
