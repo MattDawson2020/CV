@@ -17,11 +17,13 @@ I am interested in moving into machine learning to help design the thinking comp
 ## <a name="projects">Projects & Code</a> 
 Project | Description | Technologies Used | Link
 --- | --- | --- | ---
+**Fridge Savant** | A single page web app built in React, paired with a server project built in Express/Node | Javascript, Jest, React, Express, Node, MongoDB | https://github.com/MattDawson2020/fridge-savant-client & https://github.com/mikejeuga/fridge-savant-server
+**Acebook** | A web application clone of Facebook that allows users to add their friends, make posts and comments. | Ruby, Rails 6, RSpec, Bootstrap, PostgreSql | https://github.com/MattDawson2020/acebook-Derailed
+**AirBnb** | A web application clone of AirBnB that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, Sinatra, Bootstrap, PostgreSql | https://github.com/MattDawson2020/in_the_airbnb_tonight
 **Alpha-Blog** | A categorized article repository including user authentication, created for my Rails Udemy Course | Ruby, Rails 6, JQuery, Bootstrap | https://github.com/MattDawson2020/alpha-blog
 **MessageMe** | A multi-user chat app using Channels to implement live chat, created for my Rails Udemy course | Ruby, Rails 5, JQuery, SemanticUI | https://github.com/MattDawson2020/MessageMe
-**AirBnb** | A web application clone of AirBnB that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, Sinatra, Bootstrap, PostgreSql | https://github.com/MattDawson2020/in_the_airbnb_tonight
-**Acebook** | A web application clone of Facebook that allows users to add their friends, make posts and comments. | Ruby, Rails 6, RSpec, Bootstrap, PostgreSql | https://github.com/MattDawson2020/acebook-Derailed
-**Fridge Savant** | A single page web app built in React, paired with a server project built in Express/Node | Javascript, Jest, React, Express, Node, MongoDB | https://github.com/MattDawson2020/fridge-savant-client & https://github.com/mikejeuga/fridge-savant-server
+
+
 
 ### <a name="projects">Tech test examples</a> 
 Test | Description | Language | Link
