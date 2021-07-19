@@ -28,9 +28,8 @@ Project | Description | Technologies Used | Link
 ### <a name="projects">Tech test examples</a> 
 Test | Description | Language | Link
 --- | --- | --- | ---
-**Bank-Test** | A simple prompt of a desired series of actions and output, designed to challenge maximum use of SRP and clean code | Ruby | https://github.com/MattDawson2020/Bank-Tech-Test
-**Bank-Test-JS** | A JavaScript revisit of Bank Test, intended to test fluency and ability to program in multiple languages | Javascript | https://github.com/MattDawson2020/Bank-Tech-Test-JS
-**Gilded-Rose** | A well known problem designed to test a developer's ability to interpret and refactor legacy code to improve redability and efficiency | Ruby | https://github.com/MattDawson2020/Gilded-Rose-Tech-Test
+**Bank-Test** | A simple prompt of a desired series of actions and output, designed to challenge maximum use of SRP and clean code | Ruby & JavaScript | [Ruby](https://github.com/MattDawson2020/Bank-Tech-Test) [JavaScript](https://github.com/MattDawson2020/Bank-Tech-Test-JS)
+**Gilded-Rose** | A well known problem designed to test a developer's ability to interpret and refactor legacy code to improve redability and efficiency | Ruby & JavaScript | [Ruby](https://github.com/MattDawson2020/Gilded-Rose-Tech-Test) [JavaScript](https://github.com/MattDawson2020/Gilded-Rose-JS)
 
 
 ***
@@ -42,13 +41,13 @@ Test | Description | Language | Link
   - Prior to 2021 I had spent less than 10 hours in my life coding, I knew the most basic aspects such as variables, loops and functions, but no real understanding of major concepts like OOP vs FOP, MVC, frameworks etc.
   - To go from beginner to Full Stack Engineer in 4 months was tough but doable, and would require intense study and open mindedness.
   - To achieve this I would do my full day at makers coding the weekly challenges, and after 5-6pm would continue in my own reading and research in order to maximise my learning, each week testing myself in the makers weekly challenge.
-  - The results speak for themselves, [this is an example of what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/MattDawson2020/fridge-savant-client) 
+  - The best example I could give would be the makers final project. With only 2 weeks JavaScript experience, me and my team managed to design and build a fully functioning MERN based application in only ten days. This was achievable because I knew I had the capability to learn a new stack fast, and that I already knew all the underlying principles from earlier weeks. See for yourself a comparison between [what I was writing in march](https://github.com/MattDawson2020/airport_challeng-RB) VS what I was writing [12 weeks later in my final Project](https://github.com/MattDawson2020/fridge-savant-client) 
   - This skill can also be seen in my previous job, where I went from zero photography and surveying experience to a professional grade photograper and certified property measurer within a few months, and was consistently rated one of the highest by the quality assurance team and by our clients
-  - My first major test of this skill was in my university degree, which required us to do almost all of the research and learning by ourselves with minimal guidance, based on a few reccomended texts (but mostly we had to find them ourselves) and bring this to a weekly discussion 
+  - My first major test of this skill was in my university degree, which required me to do almost all of the research and learning by ourselves with minimal guidance, based on a few reccomended texts (but mostly I had to find them ourselves) and bring this to a weekly discussion 
 <br>
 
 **Communication and Group Projects** 
-- The Maker's course covered three main group projects, one a week long and the others two weeks long. They required us to build things we'd never built before, using technology stacks we hadn't used before. Compounding this, we were often required to work with people that due to the pandemic restrictions, we had never even met or would ever meet in real life, people who ranged from socially fluid and extroverted, to very closed and introverted 
+- The Maker's course covered three main group projects, one a week long and the others two weeks long. They required me to build things I'd never built before, using technology stacks I hadn't used before. Compounding this, I was often required to work with people that due to the pandemic restrictions, I had never even met or would ever meet in real life, people who ranged from socially fluid and extroverted, to very closed and introverted 
 - To achieve success in these projects required confidence and comfort working with relative strangers remotely to figure out complicated tech problems, without an experienced project manager
 - Having previously worked in a Tech company and alongside engineers, I was familiar with Agile, standups and the product lifecycle long before I ever started Makers. I'm also someone who has had a lot of client facing roles and who was heavily involved with training and leadership in the past. With this in mind I usually took something of a pseudo project manager role, usually by leading stand-ups and retros, defining an MVP to work towards, and suggesting solutions to problems, but most important in this was knowing when to step back and let a teammates confidence and initiative thrive.
 - My benchmark for success in this was my team experiences vs that of others in my cohort. All three of my team projects were extremely positive experiences, with us all wanting to work together on future projects and us being very tight knit groups. This was not always the case for others and team projects were often a source of intense friction and stress.
@@ -60,13 +59,13 @@ Test | Description | Language | Link
  **High Growth Mindset** 
 - For our Makers final project we decided to use the MERN stack despite only having two weeks of native JS experience, partially because it represented a challange, but also because we wanted to move beyond Ruby to a more representitive tech challenge. To augment the challenge, we only had 10 days to create a working app
 - To do this we had to teach ourselves how to use an entirely new framework, database, and programming paradigms on the as we coded, all in a language we had little experience in
-- This was achievable by simply divided the _difficult_ task into many smaller ones. Learn the basics of React, learn how to make a component, learn how to use States. Many small steps can make tremendous progress on a long journey. Each small step lead to greater understanding, which in turn made the next step a little easier. 
+- This was achievable by simply dividing the _difficult_ task into many smaller ones. Learn the basics of React, learn how to make a component, learn how to use States. Many small steps can make tremendous progress on a long journey. Each small step lead to greater understanding, which in turn made the next step a little easier. 
 - Despite the project being finished on time and ultimately very successful given the timeframe, I still look at it with an extremely critical lens because I know it can be better, and as I study React post Makers I see a lot of ways the code could be improved in a rewrite. However knowing this doesn't bother me, in fact the exact opposite, because it shows my growth as a developer
 - Similarly while working at Pupil I had multiple opportunities to make use of my growth mindset, because as a startup we were constantly required to change approach, start again, or just flat out abandon something that wasn't working. I actively enjoyed this and began to grow disatisifed with the job when this aspect of it faded as the technology began to work. I am at my most engaged and my best when faced with an active challenge to overcome
 <br>
 
 **Adaptablility** 
-- The first 5 weeks of makers was taught mostly in Ruby, with some HTML and CSS thrown in, culminating in an AirBNB project using the Sinatra framework. Weeks immediately threw us into JavaScript to learn by translation. Weeks 8-9 flipped back to Ruby, building a Facebook clone with Rails. We then personally chose to use JavaScript based MERN for the final project in weeks 11-12. Post Makers I am voluntarily learning Python, continuing this trend of constant adaptability.
+- The first 5 weeks of makers was taught mostly in Ruby, with some HTML and CSS thrown in, culminating in an AirBNB project using the Sinatra framework. Weeks immediately threw me into JavaScript to learn by translation. Weeks 8-9 flipped back to Ruby, building a Facebook clone with Rails. I then personally chose to use JavaScript based MERN for the final project in weeks 11-12. Post Makers I am voluntarily learning Python, continuing this trend of constant adaptability.
 - The challenge if doing this isn't necessarily being able to get something to work once, but actually understanding it enough that you could repeat it in future.
 - In order to do this I focussed very heavily on a _Processes over Syntax approach_, because as an engineer you can always use documentation or google to find syntax, as long as you know specifically what you want to do
 - The result of this is that I can code full stack applications in both Ruby using Rails or Sinatra, or JavaScript using MERN comfortably after less than 4 months learning
@@ -89,9 +88,8 @@ Test | Description | Language | Link
 
 **Makers Academy** (March 2021 to June 2020)
 
-Full Stack Software Engineer bootcamp, project and pair programming focus, specializing in Ruby and Javascript
-Joined the Blue March 2021 cohort with one CodeAcademy & Udemy Ruby course, and an RSpec testing framework course reccomended by my mentor
-Overall I found the process relatively easy and am confident in the entire stack and in multi language fluency, I was consistently among the high performers and one of the few people that wasn't burned out or stressed by the end. [Look here under the Makers section to follow my journey,](https://github.com/MattDawson2020)
+[See my Makers journey in detail here on my GitHub Profile](https://github.com/MattDawson2020)
+
 This process entailed:
   - Daily pair programming sessions on a weekly challenge set by Makers, which covered the weeks concepts. 
   - Weekly Weekend challenges to reinforce the weeks learning
