@@ -130,14 +130,6 @@ I also used my free time to arrange meetings with professionals from the many ot
 
 ## <a name="skills">Education</a>
 
-#### Makers Academy (March 2021 to June 2020)
-3 month intensive Full Stack Software Engineering bootcamp, highly selective and demanding.
-
-- Large focus on individual drive, self learning and pair programming with other students 
-- Project driven and covering multiple stacks, including Ruby, Rails, RSpec, JavaScript, React
-- Multiple editors/ environments when the need required, have experience in AWS, VS code and Atom
-- Done entirely remotely due to the Covid-19 pandemic, experience in work from home/ video conferencing 
-
 #### Leeds Universty (October 2012 to July 2015)
 
 BA Hons History, with a special focus on Cold War, Communism, Stalinism and East European modern history. 
