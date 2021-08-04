@@ -5,7 +5,16 @@ In this role I worked as a photographer, a surveyor, a software tester, and exce
 I was immediately fascinated by the challenges and opportunities presented in by the tech industry, and towards the end of my time there began to look into how to career change into a developer role, as I was more engaged with my work than at any time in my life when we were busy previously unknown tech problems.
 As the technology began to work consistently and no new features were planned, I felt the time had come and I left to join the Full Stack Developer course at [Makers Academy](https://github.com/makersacademy).
 
-Having recently graduated Makers, [see my GitHub Profile for a summary of my Maker's journey](https://github.com/MattDawson2020), I am continuing my learning by mastering the rest of the MERN stack beyond React, as well as learning Python. My intention is to be fluent in both the most popular front end tech stack, as well as one of the most widely used back end stacks. By moving beyond the more basic Rails tech stack into these technologies, I can further become a true Full Stack Engineer.
+Having recently graduated Makers, [see my GitHub Profile for a summary of my Maker's journey](https://github.com/MattDawson2020), I have sinced revised my MERN knowledge through extra learning, and have taught myself Python, including the following libraries:
+    <ul>
+      <li>Pandas</li>
+      <li>Flask</li>
+      <li>Kivy</li>
+      <li>Bokeh</li>
+      <li>Numpy</li>
+    </ul>
+
+My intention is to be fluent in both the most popular front end tech stack, as well as one of the most widely used back end stacks. By moving beyond the more basic Rails tech stack into these technologies, I can further become a true Full Stack Engineer.
 
 In the future I am very keen to be a part of the digitization of the world, to which I firmly believe we have barely dipped a toe in an ocean. 
 I am most inspired by technology such as Palantir, Tesla self driving, Square, Upstart, Zillow, Twilio, SalesForce and AWS, and the unique way in which they are driving human capabilities forward.
@@ -20,8 +29,8 @@ Project | Description | Technologies Used | Link
 **Fridge Savant** | A single page web app built in React, paired with a server project built in Express/Node | Javascript, Jest, React, Express, Node, MongoDB | https://github.com/MattDawson2020/fridge-savant-client & https://github.com/mikejeuga/fridge-savant-server
 **Acebook** | A web application clone of Facebook that allows users to add their friends, make posts and comments. | Ruby, Rails 6, RSpec, Bootstrap, PostgreSql | https://github.com/MattDawson2020/acebook-Derailed
 **AirBnb** | A web application clone of AirBnB that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, Sinatra, Bootstrap, PostgreSql | https://github.com/MattDawson2020/in_the_airbnb_tonight
-**Alpha-Blog** | A categorized article repository including user authentication, created for my Rails Udemy Course | Ruby, Rails 6, JQuery, Bootstrap | https://github.com/MattDawson2020/alpha-blog
-**MessageMe** | A multi-user chat app using Channels to implement live chat, created for my Rails Udemy course | Ruby, Rails 5, JQuery, SemanticUI | https://github.com/MattDawson2020/MessageMe
+**Python-Data-Analytics** | Uses the Pandas library to extract a 45000 row CSV file and then uses JustPy to turn this into easily understood graphs | Python, Pandas, JusyPy | https://github.com/MattDawson2020/Python-Data-Analytics
+**Python-Quotes-App** | A simple full stack notes application for both mobile and PC users | Python, Kivy, buildozer | https://github.com/MattDawson2020/Python-Data-Analytics
 
 
 
